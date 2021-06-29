@@ -1,0 +1,7 @@
+{
+
+  "UnsortPaths" : {"Upath": "unsorted-names-list.txt" },
+  
+  "sortPaths" : {"SPath": "sorted-names-list.txt" }
+  
+}
